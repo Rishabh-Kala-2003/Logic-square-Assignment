@@ -1,0 +1,12 @@
+/* Dashboard.css */
+
+.dashboard {
+  display: flex;
+}
+
+.overview,
+.employee-list {
+  flex: 1;
+  padding: 20px;
+  border: 1px solid #ccc;
+}

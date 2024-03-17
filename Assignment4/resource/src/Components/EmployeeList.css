@@ -1,0 +1,19 @@
+/* EmployeeList.css */
+
+.employee-list-container {
+  margin-top: 20px;
+}
+
+.employee-list {
+  list-style: none;
+  padding: 0;
+}
+
+.pagination {
+  margin-top: 10px;
+}
+
+.pagination button {
+  margin: 0 5px;
+  cursor: pointer;
+}
